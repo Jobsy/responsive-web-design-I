@@ -142,7 +142,6 @@ nav ul {
 		width: 100%;
 		align-items: center;
 		justify-content: space-around;
-		background-color: aqua;
 	}
 	
 	.fig1 {
@@ -150,7 +149,6 @@ nav ul {
 		order: 1;
 		text-align: center;
 		margin: 30px 0;
-		background-color: blue
 	}
 
 	.section1 figure {
@@ -183,7 +181,6 @@ nav ul {
 		width: 100%;
 		align-items: center;
 		justify-content: space-around;
-		background-color: red;
 	}
 
 	.fig1 {
@@ -191,7 +188,7 @@ nav ul {
 		order: 1;
 		text-align: center;
 		margin: 30px 0;
-		background-color: forestgreen;
+		
 	}
 
 	ul .mobile {
